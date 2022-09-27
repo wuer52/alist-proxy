@@ -1,6 +1,6 @@
 // src/const.ts
-var ADDRESS = "YOUR_ADDRESS";
-var TOKEN = "YOUR_TOKEN";
+var ADDRESS = "https://pan.wuer.ee";
+var TOKEN = "6v426lmVYKGM.bkuFu24-EqJAr_~~5_HKL";
 
 // src/verify.ts
 var verify = async (data, _sign) => {
